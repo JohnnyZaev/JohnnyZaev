@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **VR Unity Game and Raycast Game in C with MiniLibX**
 
-- 🌱 I’m currently learning **C#, C++, Unity, Zenject**
+- 🌱 I’m currently learning **C#, C++, Unity Engine, Zenject**
 
 - 📫 How to reach me **johnnyzaev@gmail.com**
 
