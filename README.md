@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Unity Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv">
 
-- 🔭 I’m currently working on **VR Unity Game and Raycast Game in C with MiniLibX**
+- 🔭 I’m currently working on **VR Unity Game**
 
 - 🌱 I’m currently learning **C#, C++, Unity Engine, Zenject**
 
