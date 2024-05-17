@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv">
 
 
-- 🌱 I’m currently working at **[8floor](https://8floor.net)** on new game!
+- 🌱 I am currently working on a new game at **[8floor](https://8floor.net)** company. 🎮🚀
 
 - 📫 How to reach me **johnnyzaev@gmail.com**
 
